@@ -41,7 +41,37 @@ O projeto aplica os principais conceitos de POO: **herança, encapsulamento, pol
 
 ---
 
- Estrutura do Projeto
+##  Tecnologias Utilizadas
+
+-  **Linguagem:** C++  
+-  **Paradigma:** Programação Orientada a Objetos  
+-  **Modelagem:** UML  
+-  **Ambiente:** VS Code / Code::Blocks / Dev-C++  
+-  **Bibliotecas padrão:** `iostream`, `vector`, `string`
+
+---
+
+##  Como Executar o Projeto
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/SEU_USUARIO/Sistema-Escolar-Cpp.git
+   cd Sistema-Escolar-Cpp
+   ```
+
+2. **Compile o projeto:**
+   ```bash
+   g++ src/*.cpp -o sistema
+   ```
+
+3. **Execute o sistema:**
+   ```bash
+   ./sistema
+   ```
+
+---
+
+## Estrutura do Projeto
 
     /src
        ├── Pessoa.hpp / Pessoa.cpp
