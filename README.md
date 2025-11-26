@@ -2,7 +2,7 @@
 ![C++](https://img.shields.io/badge/Linguagem-C%2B%2B-blue)
 ![License](https://img.shields.io/badge/Licença-MIT-green)
 ![POO](https://img.shields.io/badge/Paradigma-POO-orange)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Em%20Concluído-yellow)
 
 Este repositório contém o desenvolvimento completo de um **Sistema
 Escolar** implementado em **C++**, utilizando os princípios fundamentais
